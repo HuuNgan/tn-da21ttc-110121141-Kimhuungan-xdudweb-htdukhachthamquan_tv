@@ -1,0 +1,10 @@
+	SAU ĐÂY LÀ HƯỚNG DẪN CHI TIẾT CHẠY DEMO
+
+Bước 1:
+	Cài đặt XAMPP
+Bước 2:
+	Di chuyển code đến đường dẫn C:\xampp\htdocs
+Bước 3:
+	Bật Apache và MySQL và dán file SQL
+Bước 4: 
+	DEMO 
